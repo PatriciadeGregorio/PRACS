@@ -14,6 +14,6 @@ public class Algoritmo {
 				s[j] = false;
 			}
 		}
-		return caracol;
+		return caracsol;
 	}
 }
