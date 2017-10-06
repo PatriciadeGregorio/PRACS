@@ -14,6 +14,6 @@ public class Algoritmo {
 				s[j] = false;
 			}
 		}
-		return seeee;
+		return s;
 	}
 }
