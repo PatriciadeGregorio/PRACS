@@ -8,7 +8,7 @@ public class Main {
 		boolean[] resultado = a.selecActividadesOrdDecreInicio(c, f);
 		for (int i = 0; i < resultado.length; i++){
 			
-			System.out.println(resultado[i]);
+			System.out.println(i + " " + resultado[i]);
 		}
 	}
 }
